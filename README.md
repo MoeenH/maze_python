@@ -1,2 +1,2 @@
-# mazy_python
-Maze Game for BFS and DFS
+# maze_python
+Maze Game in python with BFS and DFS
